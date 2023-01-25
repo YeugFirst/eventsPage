@@ -1,0 +1,22 @@
+{
+	"events": [
+		{
+			"imageUrl": "https://example.com/image1.jpg",
+			"eventName": "Event 1",
+			"address": "123 Main St, Anytown USA",
+			"date": "2022-01-01"
+		},
+		{
+			"imageUrl": "https://example.com/image2.jpg",
+			"eventName": "Event 2",
+			"address": "456 Park Ave, Anytown USA",
+			"date": "2022-01-15"
+		},
+		{
+			"imageUrl": "https://example.com/image3.jpg",
+			"eventName": "Event 3",
+			"address": "789 Elm St, Anytown USA",
+			"date": "2022-02-01"
+		}
+	]
+}
